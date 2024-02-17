@@ -1,5 +1,5 @@
-PROJETO  Jogo da Velha
-Cenário
+# PROJETO  Jogo da Velha
+## Cenário
 Sua tarefa é escrever um programa simples que finge jogar tic-tac-toe com o usuário. Para tornar tudo mais fácil para você, decidimos simplificar o jogo. Aqui estão nossas suposições:
 
 o computador (ou seja, seu programa) deve jogar usando 'X's;
@@ -122,7 +122,7 @@ Digite seu movimento: 7
 +-------+-------+-------+
 Você ganhou!
 
-Requisitos
+## Requisitos
 Implemente os seguintes recursos:
 
 o painel deve ser armazenado como uma lista de três elementos, enquanto cada elemento é outra lista de três elementos (as listas internas representam linhas) para que todos os quadrados possam ser acessados usando a seguinte sintaxe:
